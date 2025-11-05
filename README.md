@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://usestrix.com/">
-    <img src=".github/logo.png" width="150" alt="Strix Logo">
+    <img src=".github/logo.png" width="100" alt="Strix Logo">
   </a>
 </p>
 
