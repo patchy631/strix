@@ -8,7 +8,7 @@
 
 # Strix
 
-### Open-source AI hackers to find and fix your app’s vulnerabilities.
+### Open-source AI hackers to find and fix your app’s vulnerabilities .
 
 <br/>
 
